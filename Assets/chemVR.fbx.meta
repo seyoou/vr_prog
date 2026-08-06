@@ -3,7 +3,167 @@ guid: 97f31832235c5854ba9a5f8d9812e861
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #32
+    second: {fileID: 2100000, guid: 894a13e6f9011964aa9f86b1d6ed6750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #33
+    second: {fileID: 2100000, guid: 1b424ecfa59d07049a66aeda000aa418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #34
+    second: {fileID: 2100000, guid: b5a9e3f15cb122a4d92aa6035a5084cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #35
+    second: {fileID: 2100000, guid: 70431e8e8321e734ba04ba1cb2f0f9b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #36
+    second: {fileID: 2100000, guid: ee4fb67824485f04b96b08addc1fc4c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #38
+    second: {fileID: 2100000, guid: f0d03081b90207e4da8b58b768693345, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #39
+    second: {fileID: 2100000, guid: a8c88ac350a41e849bccf1142445eb71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #4
+    second: {fileID: 2100000, guid: 6a19594833c9d3b4fa194f669950ce5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #40
+    second: {fileID: 2100000, guid: 73bc169743b136b4d8712caf3995ea47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #41
+    second: {fileID: 2100000, guid: 4ae61648832922344a779ea43ebdc66c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #42
+    second: {fileID: 2100000, guid: 6b9997da3280c73409cb84710643fe45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #43
+    second: {fileID: 2100000, guid: 19027b7aa56db464a91b4a2d4c14c76d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #5
+    second: {fileID: 2100000, guid: 0d8b4388c82cfe64b8e6a463c5452ff5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #6
+    second: {fileID: 2100000, guid: 065418d79ca6b5b48a8ab7b4c77bdc78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #7
+    second: {fileID: 2100000, guid: 2f3e6529526839046b76178071a1f427, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: coutner
+    second: {fileID: 2100000, guid: b4ed1cb0d7beb9943a56e8934c0176ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drawers
+    second: {fileID: 2100000, guid: 332f1c3d4fe5eb24b8c9416ad316de5e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: checklist
+    second: {fileID: 2800000, guid: 3dc27fe2f164b1d4ab3638182dfab2bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: counter_map
+    second: {fileID: 2800000, guid: 6d292ca5db4e901428010c9454560aae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drawer_handle
+    second: {fileID: 2800000, guid: 705dad6fef0edea4384f3f378815cd14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: drawers
+    second: {fileID: 2800000, guid: 2c55ad402cdb7fe418ff377db4c0500e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: flloor_tex
+    second: {fileID: 2800000, guid: bebe3e16989e42646ba084f4adba5a6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glass_equiptment_opac
+    second: {fileID: 2800000, guid: d29365d961c79e04ca618f65b0d0195f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: glass_opac
+    second: {fileID: 2800000, guid: e1c91fb033af3864598ed2ad4eb70178, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: holder_tex
+    second: {fileID: 2800000, guid: 22af0e89f56046b4980c053dee75d3e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: periodic_table
+    second: {fileID: 2800000, guid: 9b11df8562e78f942bb1f122ed6583c7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poster
+    second: {fileID: 2800000, guid: 596e5c610eeb3ee429b01196c25fabca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: poster_2
+    second: {fileID: 2800000, guid: e90948a96625e8647b81d1ac3487e06e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: table_tex
+    second: {fileID: 2800000, guid: a346ca2d002f06041ac76631fc4f811a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: wall
+    second: {fileID: 2800000, guid: afd869c6d64bfeb469822720b3ce2c7a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: whiteboard
+    second: {fileID: 2800000, guid: b5817c83288ad3449ae920f88ac49c7e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: window_pane
+    second: {fileID: 2800000, guid: 34492ef8804ad494b9170322fd1d090c, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
